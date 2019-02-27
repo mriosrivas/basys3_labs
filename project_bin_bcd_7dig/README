@@ -1,0 +1,2 @@
+Este proyecto contiene la implementación en Verilog de un conversor BCD a 7 Segmentos junto con su archivo XDC.
+Este conversor toma números en el rango de 2**13-1 (13 bits).

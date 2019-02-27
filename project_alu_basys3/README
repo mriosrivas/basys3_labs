@@ -1,0 +1,9 @@
+Este proyecto presenta la implementación de una Unidad Aritmética Lógica (ALU) de 16 bits junto con su respectivo direccionamiento.
+
+Sus entradas son:
+
+SW[15:0] multiplexados para las entradas X, Y y OPCODE de la ALU.
+BTNU load OPCODE: OPCODE = SW[5:0]
+BTNL load X: X = SW[15:0]
+BTNR load Y: y = SW[15:0]
+BTNC RESET (asincrono)
